@@ -1,6 +1,6 @@
 # Vertical Scan  (Soft Space #3)
 
-[vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176259914-8cb6a5e8-2bcd-4013-8415-e2a367f612e5.png)
+![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176259914-8cb6a5e8-2bcd-4013-8415-e2a367f612e5.png)
 
 
 >"In short, everything whatsoever that exists in the whole universe is a series of
